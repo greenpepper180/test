@@ -1,6 +1,6 @@
 #from joud
 
-name = "Joud"
+name = "JoudundEmil"
 age = 17
 print(name, age)
 
