@@ -1,5 +1,7 @@
+#from joud
+
 name = "Joud"
+age = 17
+print(name, age)
 
-print(name)
-
-print("test")
+print("done")
